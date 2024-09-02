@@ -1,0 +1,8 @@
+### IP and CIDR ###
+141.98.233.86
+
+
+### Domains and FQDNs ###
+canyoumore.com
+makerichtoday.com
+wetpudels.com
